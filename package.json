@@ -1,0 +1,13 @@
+{
+  "name": "property-link-check",
+  "version": "1.0.0",
+  "description": "checks an object step by step using a property path and returns the current lookup result, so you can verify the path before reading deeply nested values.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test test.js"
+  },
+  "keywords": ["property","check"],
+  "author": "Hanna Schmidt",
+  "license": "MIT"
+}
