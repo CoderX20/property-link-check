@@ -1,6 +1,6 @@
 {
   "name": "property-link-check",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "checks an object step by step using a property path and returns the current lookup result, so you can verify the path before reading deeply nested values.",
   "type": "module",
   "main": "index.js",
@@ -9,5 +9,10 @@
   },
   "keywords": ["property","check"],
   "author": "Hanna Schmidt",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderX20/property-link-check.git"
+  },
+  "homepage": "https://github.com/CoderX20/property-link-check/blob/master/README.md"
 }
